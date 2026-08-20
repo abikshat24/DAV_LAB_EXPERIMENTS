@@ -24,6 +24,10 @@ This experiment demonstrates the application of descriptive statistics and corre
 
 This experiment implements statistical hypothesis testing techniques, including Normal Distribution, Z-Test, Independent T-Test, and One-Way ANOVA. These methods are used to analyze datasets, compare groups, and draw statistically significant conclusions.
 
+### Experiment 5 – Model Building and Validation
+
+This experiment focuses on building and validating predictive models using diabetes datasets. It includes Linear Regression, Logistic Regression, and Time Series Analysis to evaluate model performance, analyze relationships, and identify trends and patterns in the data.
+
 ---
 
 ## Technologies Used

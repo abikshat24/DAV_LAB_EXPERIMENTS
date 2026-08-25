@@ -97,3 +97,6 @@ Chennai Institute of Technology
 ## Academic Purpose
 
 This repository has been developed for academic and educational purposes as part of the Data Analytics and Visualization Laboratory course. The implementations are intended to demonstrate practical applications of data analytics techniques using Python and should be used for learning and reference purposes.
+
+**If you find this repository useful, consider giving it a star!**
+
